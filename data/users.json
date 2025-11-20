@@ -1,0 +1,30 @@
+{
+  "1": {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john@example.com",
+    "password": "$2a$10$rOzJqZqZqZqZqZqZqZqZqOqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZq",
+    "createdAt": "2025-11-20T11:58:11.850Z"
+  },
+  "2": {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "password": "$2a$10$rOzJqZqZqZqZqZqZqZqZqOqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZq",
+    "createdAt": "2025-11-20T11:58:11.851Z"
+  },
+  "3": {
+    "id": 3,
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "password": "$2a$10$rOzJqZqZqZqZqZqZqZqZqOqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZq",
+    "createdAt": "2025-11-20T11:58:11.851Z"
+  },
+  "4": {
+    "id": 4,
+    "name": "raffay",
+    "email": "raffay@gmail.com",
+    "password": "$2a$10$Lh3dURpW9No.uCtkDqoCGuVLHfK0hWPy71P8xop21o4pS4BkbtOLW",
+    "createdAt": "2025-11-20T13:35:34.627Z"
+  }
+}
